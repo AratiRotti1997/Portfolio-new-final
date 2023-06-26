@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.1ab500dd.css",
+    "main.js": "/react-gh-pages/static/js/main.b087b7b5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume.pdf": "/react-gh-pages/static/media/Resume.43b52108090da0c62b03.pdf",
+    "static/media/helvetica-neu.ttf": "/react-gh-pages/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/react-gh-pages/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo_sub.png": "/react-gh-pages/static/media/logo_sub.26712b95cfb81ee5a940.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-gh-pages/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-gh-pages/index.html",
+    "main.1ab500dd.css.map": "/react-gh-pages/static/css/main.1ab500dd.css.map",
+    "main.b087b7b5.js.map": "/react-gh-pages/static/js/main.b087b7b5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab500dd.css",
+    "static/js/main.b087b7b5.js"
+  ]
+}
